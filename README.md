@@ -1,7 +1,7 @@
 # Online-Examination-System
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040028
+# Name: B ARPUTHA
+# Date: 20.05.2026
 
 
 # AIM:
